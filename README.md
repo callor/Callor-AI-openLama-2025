@@ -5,7 +5,7 @@
 - 개발자 : 메타 AI(Face Book)
 - 최초 발표일 : 2023년 2월 24일(23개월 전)
 - 최신 안정화 버전 : Llama 3.3 / 2024년 12월 7일
-- 저장소 : github.com/meta-llama/llama-models
+- 저장소 : https://github.com/meta-llama/llama-models
 
 LLaMA(Large Language Model Meta AI→대형 언어 모델 메타 AI)는  
 Meta AI가 2023년 2월에 출시한 대규모 언어 모델(LLM)이다.
