@@ -1,6 +1,8 @@
 # Bllossom 모델 ollama 에서 실행하기기
 
-## https://huggingface.co/ 페이지의 모델 소개내용
+## 허깅페이스(huggingface) 페이지의 모델 소개내용
+
+https://huggingface.co/MLP-KTLim/llama-3-Korean-Bllossom-8B
 
 ```text
 저희 Bllossom팀 에서 한국어-영어 이중 언어모델인 Bllossom을 공개했습니다!
