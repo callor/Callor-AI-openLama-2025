@@ -21,9 +21,13 @@
    특히 소량의 GPU라도 대여 가능한팀은 언제든 연락주세요! 만들고 싶은거 도와드려요.
 ```
 
-## [다운로드 링크](https://huggingface.co/MLP-KTLim/llama-3-Korean-Bllossom-8B)
+## 최신버전 다운로드 링크
 
-현재 최신버전 모델명 : `MLP-KTLim/llama-3-Korean-Bllossom-8B`
+https://huggingface.co/MLP-KTLim/llama-3-Korean-Bllossom-8B
+
+## 양자화된 CPU 버전 링크
+
+https://huggingface.co/MLP-KTLim/llama-3-Korean-Bllossom-8B-4bit
 
 ## 모델 생성하기
 
