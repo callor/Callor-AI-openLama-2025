@@ -31,6 +31,8 @@ https://huggingface.co/MLP-KTLim/llama-3-Korean-Bllossom-8B
 
 https://huggingface.co/MLP-KTLim/llama-3-Korean-Bllossom-8B-4bit
 
+
+
 ## 모델 생성하기
 
 이 환경은 python 3+, 아나콘다 등이 설치된 환경에서 운영한다
