@@ -70,7 +70,7 @@ git clone https://github.com/ggerganov/llama.cpp.git
 
 ## llama.cpp의 필요 환경 설치
 
-환경설정을 하고 _.cpp 파일을 생성하는 과정이 있으나, 현시점(2025.2.3) _.cpp 파일 컴파일 작업이 필요 없다.
+환경설정을 하고 `*.cpp` 파일을 생성하는 과정이 있으나, 현시점(2025.2.3) `*.cpp` 파일 컴파일 작업이 필요 없다.
 
 다음명령으로 python 환경만 실행하자
 
@@ -126,3 +126,4 @@ ollama create bllossom-8B -f Modelfile
 ```shell
 ollama run bllossom-8B
 ```
+ 
